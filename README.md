@@ -2,6 +2,8 @@
 A modern, fully responsive Indian e-commerce storefront built with React 19 and Vite. SwiftCart is an original UI project focused on clean component architecture, mobile-first responsiveness, and a distinctive teal-and-navy design system.
 
 🖥️ Live Demo
+inspiring-alpaca-452db7.netlify.app
+
 ✨ Features
 🔍 Live Search — filter products instantly from the navbar
 🛒 Cart Counter — tracks items added across the product grid
